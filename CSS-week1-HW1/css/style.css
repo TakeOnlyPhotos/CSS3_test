@@ -15,11 +15,11 @@ footer{
   background-color:#d3d3d3;
 }
 li{
-  display:;
-  width:;
+  display:inline;
+  width:300px;
 }
 h1{
-  text-alignment:;
+  text-align:center;
   font-family:;
   color:;
 }
