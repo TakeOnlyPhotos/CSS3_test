@@ -15,8 +15,8 @@ footer{
   background-color:#d3d3d3;
 }
 li{
-  display:inline;
-  width:300px;
+  display:inline-block;
+  width:30%;
 }
 h1{
   text-align:center;
