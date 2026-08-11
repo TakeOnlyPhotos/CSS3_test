@@ -41,6 +41,9 @@ nav{
   width:80%;
   background-color:#aed8e6;
 }
+nav li{
+  width:25%;
+}
 nav img{
   width:10%;
   position:relative;
