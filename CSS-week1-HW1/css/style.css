@@ -41,13 +41,16 @@ nav{
   width:80%;
   background-color:#aed8e6;
 }
-nav li{
-  width:25%;
-}
 nav img{
   width:10%;
   position:relative;
   top:20px;
+}
+nav li{
+  width:25%;
+}
+nav ul{
+list-style-type: none;
 }
 p{
   line-height:2em;
