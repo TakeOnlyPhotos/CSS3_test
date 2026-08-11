@@ -6,6 +6,8 @@ header{
   background-color:#d3d3d3;
 }
 nav{
+  display:inline-block;
+  width:80%;
   background-color:#aed8e6;
 }
 main{
