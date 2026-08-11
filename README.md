@@ -6,3 +6,5 @@ https://github.com/academic-innovation-online-learning/WD4E-Intro_to_CSS3.
 
 If you see this page you and you are looking for one of the <em>deployed pages</em> you will want the URL with <em>".io"</em> PLUS the folder name.<br>
 https://academic-innovation-online-learning.github.io/WD4E-Intro_to_CSS3/CSS-week2-CT2_lists
+
+shortcut to Homework: https://takeonlyphotos.github.io/CSS3_test/CSS-week1-HW1/index.html
