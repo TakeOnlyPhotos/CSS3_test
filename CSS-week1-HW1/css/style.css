@@ -10,6 +10,11 @@ nav{
   width:80%;
   background-color:#aed8e6;
 }
+nav img{
+  width:10%;
+  position:relative;
+  top:20px;
+}
 main{
   background-color:#feff00;
 }
