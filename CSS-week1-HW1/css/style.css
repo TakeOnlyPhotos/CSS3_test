@@ -32,6 +32,11 @@ header{
 img{
   margin:0 auto;
 }
+header img{
+  position:relative;
+  top:20px;
+  width:10%;
+}
 /*
 li{
   display:inline-block;
