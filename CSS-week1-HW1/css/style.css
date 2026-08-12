@@ -30,7 +30,7 @@ header{
   background-color:#d3d3d3;
 }
 img{
-  margin: 0 auto;
+  margin:0px auto;
 }
 /*
 li{
@@ -47,6 +47,7 @@ nav{
   background-color:#aed8e6;
 }
 nav img{
+  margin:0px;
   width:10%;
   position:relative;
   top:20px;
