@@ -57,10 +57,6 @@ nav img{
   position:relative;
   top:20px;
 }
-nav li{
-  text-align:center;
-  width:25%;
-}
 nav ul{
   display:flex;
   flex-direction:row;
