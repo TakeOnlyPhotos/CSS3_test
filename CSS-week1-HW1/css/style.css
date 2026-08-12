@@ -44,12 +44,13 @@ li{
 }
 */
 main{
+  font-size:120%
   background-color:#feff00;
 }
 nav{
   display:inline-block;
   width:80%;
-  background-color:#aed8e6;
+  /* background-color:#aed8e6; */
 }
 nav img{
   margin:0;
