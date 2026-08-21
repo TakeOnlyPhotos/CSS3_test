@@ -23,3 +23,9 @@ nav ul{
 p{
   line-height:100%;
 }
+#skip{
+  display:none;
+}
+#skip:focus{
+  display:block;
+}
