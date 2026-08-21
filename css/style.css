@@ -24,8 +24,8 @@ p{
   line-height:100%;
 }
 #skip{
-  display:none;
+  visibility:hidden;
 }
 #skip:focus{
-  display:block;
+  visibility:visible;
 }
