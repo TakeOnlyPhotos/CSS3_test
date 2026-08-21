@@ -26,6 +26,6 @@ p{
 #skip{
   visibility:hidden;
 }
-#skip:focus{
+:focus{
   visibility:visible;
 }
